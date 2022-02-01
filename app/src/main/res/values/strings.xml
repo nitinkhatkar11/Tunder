@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tunder</string>
+    <string name="header_text">IQ_Test</string>
+    <string name="sub_head_text">Due to Advancement in technology, now we can measure IQ using one question</string>
+    <string name="ques_text">Do you love Nitin</string>
+    <string name="yes_text">Yayyyyy!! Crush at first site</string>
+    <string name="no_text">Nehhh!! I Don\'t think so</string>
+
+</resources>
